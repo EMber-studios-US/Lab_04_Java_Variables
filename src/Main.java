@@ -47,9 +47,9 @@ void main() {
     boolean isRaining = false;
     double gasPricePerGallon = 3.49;
     int favoriteNumber = 7;
-    double shoeSize = 10.5;
-    int birthMonth = 8;
-    String fullName = "Alex Smith";
+    double shoeSize = 11.5;
+    int birthMonth = 1;
+    String fullName = "Ethan Dankwa";
 
     //task1
 
